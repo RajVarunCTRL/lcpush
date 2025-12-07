@@ -49,4 +49,4 @@ def maxSubgraphScore(n, edges, good):
 n = 5
 edges = [[1,0],[1,2],[1,3],[3,4]]
 good = [0,1,0,1,1]
-print(maxSubgraphScore(n,edges,good))
+print(maxSubgraphScore(n,edges,good)) 
